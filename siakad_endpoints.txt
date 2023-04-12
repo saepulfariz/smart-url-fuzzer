@@ -1,0 +1,54 @@
+https://siakad.unsub.ac.id/ : 200
+https://siakad.unsub.ac.id/.htaccess : 403
+https://siakad.unsub.ac.id/.htaccess.bak : 403
+https://siakad.unsub.ac.id/.htpasswd : 403
+https://siakad.unsub.ac.id/api : 200
+https://siakad.unsub.ac.id/index.php : 200
+https://siakad.unsub.ac.id/index2.php : 200
+https://siakad.unsub.ac.id/info.php : 200
+https://siakad.unsub.ac.id/manual : 200
+https://siakad.unsub.ac.id/phpmyadmin : 200
+https://siakad.unsub.ac.id/server-status : 403
+https://siakad.unsub.ac.id/~de witt : 403
+https://siakad.unsub.ac.id/~dee dee : 403
+https://siakad.unsub.ac.id/~jo ann : 403
+https://siakad.unsub.ac.id/~la verne : 403
+https://siakad.unsub.ac.id/~miof mela : 403
+https://siakad.unsub.ac.id/~zsa zsa : 403https://siakad.unsub.ac.id/ : 200
+https://siakad.unsub.ac.id/.hta : 403
+https://siakad.unsub.ac.id/.htaccess : 403
+https://siakad.unsub.ac.id/.htaccess.bak : 403
+https://siakad.unsub.ac.id/.htpasswd : 403
+https://siakad.unsub.ac.id/Documents and Settings : 403
+https://siakad.unsub.ac.id/Download : 200
+https://siakad.unsub.ac.id/Login : 200
+https://siakad.unsub.ac.id/Main : 200
+https://siakad.unsub.ac.id/Program Files : 403
+https://siakad.unsub.ac.id/api : 200
+https://siakad.unsub.ac.id/application : 403
+https://siakad.unsub.ac.id/assets : 200
+https://siakad.unsub.ac.id/dashboard : 200
+https://siakad.unsub.ac.id/dav : 401
+https://siakad.unsub.ac.id/download : 200
+https://siakad.unsub.ac.id/faq : 200
+https://siakad.unsub.ac.id/icon : 403
+https://siakad.unsub.ac.id/index.php : 200
+https://siakad.unsub.ac.id/index2.php : 200
+https://siakad.unsub.ac.id/info.php : 200
+https://siakad.unsub.ac.id/javascript : 403
+https://siakad.unsub.ac.id/login : 200
+https://siakad.unsub.ac.id/logout : 200
+https://siakad.unsub.ac.id/main : 200
+https://siakad.unsub.ac.id/manual : 200
+https://siakad.unsub.ac.id/phpmyadmin : 200
+https://siakad.unsub.ac.id/reports list : 403
+https://siakad.unsub.ac.id/server-status : 403
+https://siakad.unsub.ac.id/stats : 401
+https://siakad.unsub.ac.id/system : 403
+https://siakad.unsub.ac.id/uc : 200
+https://siakad.unsub.ac.id/~de witt : 403
+https://siakad.unsub.ac.id/~dee dee : 403
+https://siakad.unsub.ac.id/~jo ann : 403
+https://siakad.unsub.ac.id/~la verne : 403
+https://siakad.unsub.ac.id/~miof mela : 403
+https://siakad.unsub.ac.id/~zsa zsa : 403
